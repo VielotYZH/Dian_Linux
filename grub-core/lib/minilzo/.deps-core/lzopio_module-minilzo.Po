@@ -1,0 +1,33 @@
+lib/minilzo/lzopio_module-minilzo.o: \
+ ../../grub-core/lib/minilzo/minilzo.c ../config.h \
+ ../../grub-core/lib/posix_wrap/limits.h ../../include/grub/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
+ ../include/grub/cpu/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+ ../../grub-core/lib/minilzo/minilzo.h \
+ ../../grub-core/lib/minilzo/lzodefs.h \
+ ../../grub-core/lib/minilzo/lzoconf.h \
+ ../../grub-core/lib/posix_wrap/string.h ../../include/grub/misc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
+ ../../include/grub/symbol.h ../../include/grub/err.h \
+ ../../include/grub/compiler.h ../../include/grub/i18n.h \
+ ../../grub-core/lib/posix_wrap/sys/types.h \
+ ../../grub-core/lib/posix_wrap/assert.h
+../config.h:
+../../grub-core/lib/posix_wrap/limits.h:
+../../include/grub/types.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h:
+../include/grub/cpu/types.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
+../../grub-core/lib/minilzo/minilzo.h:
+../../grub-core/lib/minilzo/lzodefs.h:
+../../grub-core/lib/minilzo/lzoconf.h:
+../../grub-core/lib/posix_wrap/string.h:
+../../include/grub/misc.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
+../../include/grub/symbol.h:
+../../include/grub/err.h:
+../../include/grub/compiler.h:
+../../include/grub/i18n.h:
+../../grub-core/lib/posix_wrap/sys/types.h:
+../../grub-core/lib/posix_wrap/assert.h:

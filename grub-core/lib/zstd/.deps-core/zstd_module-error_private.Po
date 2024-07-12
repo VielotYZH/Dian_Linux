@@ -1,0 +1,8 @@
+lib/zstd/zstd_module-error_private.o: \
+ ../../grub-core/lib/zstd/error_private.c \
+ ../../grub-core/lib/zstd/error_private.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+ ../../grub-core/lib/zstd/zstd_errors.h
+../../grub-core/lib/zstd/error_private.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
+../../grub-core/lib/zstd/zstd_errors.h:

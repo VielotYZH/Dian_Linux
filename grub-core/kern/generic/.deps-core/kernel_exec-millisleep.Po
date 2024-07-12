@@ -1,0 +1,21 @@
+kern/generic/kernel_exec-millisleep.o: \
+ ../../grub-core/kern/generic/millisleep.c ../../include/grub/misc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
+ ../../include/grub/types.h ../config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
+ ../include/grub/cpu/types.h ../../include/grub/symbol.h \
+ ../../include/grub/err.h ../../include/grub/compiler.h \
+ ../../include/grub/i18n.h ../../include/grub/time.h \
+ ../include/grub/cpu/time.h
+../../include/grub/misc.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
+../../include/grub/types.h:
+../config.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h:
+../include/grub/cpu/types.h:
+../../include/grub/symbol.h:
+../../include/grub/err.h:
+../../include/grub/compiler.h:
+../../include/grub/i18n.h:
+../../include/grub/time.h:
+../include/grub/cpu/time.h:

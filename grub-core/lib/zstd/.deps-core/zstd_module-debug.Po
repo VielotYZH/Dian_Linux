@@ -1,0 +1,3 @@
+lib/zstd/zstd_module-debug.o: ../../grub-core/lib/zstd/debug.c \
+ ../../grub-core/lib/zstd/debug.h
+../../grub-core/lib/zstd/debug.h:

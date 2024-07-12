@@ -1,0 +1,3 @@
+libgnu_a-argp-ba.o: ../../../../grub-core/lib/gnulib/argp-ba.c \
+ /usr/include/stdc-predef.h
+/usr/include/stdc-predef.h:

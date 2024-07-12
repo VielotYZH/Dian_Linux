@@ -1,0 +1,7 @@
+lib/setjmp_module-setjmp.o: ../../grub-core/lib/setjmp.S \
+ ../../grub-core/lib/./x86_64/setjmp.S ../../include/grub/symbol.h \
+ ../config.h ../../include/grub/dl.h
+../../grub-core/lib/./x86_64/setjmp.S:
+../../include/grub/symbol.h:
+../config.h:
+../../include/grub/dl.h:
